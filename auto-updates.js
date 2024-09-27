@@ -1,13 +1,3 @@
-// ==UserScript==
-// @name         Diceblox Optimizer with Improved UI
-// @namespace    http://tampermonkey.net/
-// @version      1.17
-// @description  Optimizes Diceblox by improving UI and performance, and tracks performance issues.
-// @author       @pantoviz
-// @match        *://*.diceblox.com/*
-// @grant        none
-// ==/UserScript==
-
 (function() {
     'use strict';
 
